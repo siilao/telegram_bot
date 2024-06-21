@@ -1,3 +1,4 @@
+// 魔改版本
 const TOKEN = ENV_BOT_TOKEN // Get it from @BotFather
 const WEBHOOK = '/endpoint'
 const SECRET = ENV_BOT_SECRET // A-Z, a-z, 0-9, _ and -
